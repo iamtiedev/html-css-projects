@@ -11,8 +11,8 @@ This repository showcases a collection of 30 projects designed for my personal p
 - **Motivation**: Remember, every line of code is an opportunity to learn and grow. Embrace the process and enjoy the journey!
 
 ### Project List:
-1. Project 1: Socially - Animated Website
-2. Project 2: Coming
+1. Socially - Animated Website
+2. Coming
 3. ...
 
 ### How to Use:
