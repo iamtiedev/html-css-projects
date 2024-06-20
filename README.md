@@ -10,10 +10,22 @@ This repository showcases a collection of 30 projects designed for my personal p
 - **Continuous Learning**: Learning is a lifelong journey, and these projects reflect my commitment to continuous improvement.
 - **Motivation**: Remember, every line of code is an opportunity to learn and grow. Embrace the process and enjoy the journey!
 
-### Project List:
-1. Socially - Animated Website
-2. Coming
-3. ...
+## Project 1: Socially Animated Website
+An animated website where I use some skills for animation, css and more.
+
+![Project 1 Screenshot](https://imgur.com/KRau6tM)
+
+Project Link: [Socially Animated Website](https://socially-animated-website.netlify.app/)
+
+---
+
+## Project 2: Project Name 2
+
+Brief description of Project 2.
+
+![Project 2 Screenshot](/path/to/screenshot-project-2.png)
+
+Project Link: [View Project 2](/path/to/project-2)
 
 ### How to Use:
 - Clone this repository to your local machine.
