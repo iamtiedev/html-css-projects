@@ -95,7 +95,7 @@ nav ul li a:hover::before{
     box-shadow: 5px 8px 10px rgba(0, 0, 0, 0.1);
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 768px){
     nav {
         display: block;
         flex-direction: column;
@@ -104,14 +104,12 @@ nav ul li a:hover::before{
         padding-bottom: 10px;
         position: relative;
     }
-
-    nav .logo {
+    nav .logo{
         width: 120px;
         cursor: pointer;
         order: 1;
     }
-
-    nav .menu-img {
+    nav .menu-img{
         width: 50px;
         cursor: pointer;
         order: 3;
@@ -122,50 +120,41 @@ nav ul li a:hover::before{
         margin-top: 20px;
         margin-right: 20px;
     }
-
-    nav ul {
+    nav ul{
         display: block;
         text-align: center;
         margin-right: 0;
         order: 4;
         flex-direction: column;
     }
-
-    nav ul li {
+    nav ul li{
         margin: 5px 0;
         position: relative;
         /* display: block; */
     }
-
-    nav ul li a {
+    nav ul li a{
         display: inline-block;
         padding: 10px;
         text-align: center;
     }
-
-    nav ul li a::before {
+    nav ul li a::before{
         height: 0px;
     }
-
-    nav ul li a:hover::before {
+    nav ul li a:hover::before{
         height: 250px;
     }
-
-    .row {
+    .row{
         justify-content: space-between;
     }
-
-    .col {
+    .col{
         flex-basis: 100%;
     }
-
-    .col h1 {
+    .col h1{
         font-size: 40px;
         margin-top: 50px;
         text-align: center;
     }
-
-    .col a {
+    .col a{
         padding: 12px 30px;
         display: block;
         margin-top: 30px;
@@ -173,13 +162,11 @@ nav ul li a:hover::before{
         margin-right: auto;
         width: fit-content;
     }
-
-    .feature-img {
+    .feature-img{
         width: 100%;
         margin-top: 20px;
     }
-
-    .thumbnail-img {
+    .thumbnail-img{
         width: 180px;
         position: absolute;
         bottom: 10px;
