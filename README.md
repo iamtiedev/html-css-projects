@@ -18,13 +18,13 @@ Project Link: [Socially - Animated Website](https://socially-animated-website.ne
 
 ---
 
-## Project 2: Project Name 2
+## Project 2: Fusion Kitchen - Animated Website
 
-Brief description of Project 2.
+[![fusion-kitchen-screenshot.png](https://i.postimg.cc/sX3sgW6Q/fusion-kitchen-screenshot.png)](https://postimg.cc/B87dhjG4)
 
-![Project 2 Screenshot](/path/to/screenshot-project-2.png)
+Project Link: [Fusion Kitchen - Animated Website](https://fusion-kitchen-animated-website.netlify.app/)
 
-Project Link: [View Project 2](/path/to/project-2)
+---
 
 ### How to Use:
 - Clone this repository to your local machine.
