@@ -1,10 +1,11 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
-.hero{
+
+.hero {
     width: 100%;
     min-height: 100vh;
     background-image: url(/images/back-image.png);
@@ -14,32 +15,38 @@
     overflow: hidden;
     position: relative;
 }
-nav{
+
+nav {
     padding: 10px 0;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
-.logo{
+
+.logo {
     width: 140px;
 }
-nav ul li{
+
+nav ul li {
     display: inline-block;
     list-style: none;
     margin: 10px 15px;
 }
-nav ul li a{
+
+nav ul li a {
     text-decoration: none;
     color: #333;
     font-weight: 400;
 }
-.login-btn{
+
+.login-btn {
     text-decoration: none;
     color: #333;
     margin-right: 15px;
     font-weight: 400;
 }
-.btn{
+
+.btn {
     display: inline-block;
     text-decoration: none;
     padding: 14px 40px;
@@ -50,97 +57,115 @@ nav ul li a{
     border-top-right-radius: 0;
     transition: 0.5s;
 }
-.content{
+
+.content {
     margin-top: 10%;
     max-width: 600px;
 }
-.content h1{
+
+.content h1 {
     font-size: 70px;
     color: #222;
 }
-.content p{
+
+.content p {
     margin: 10px 0 30px;
     color: #333;
     animation-delay: 0.5s;
 }
-.content .btn{
+
+.content .btn {
     padding: 15px 80px;
     font-size: 16px;
     animation-delay: 1s;
 }
-.btn:hover{
+
+.btn:hover {
     border-top-right-radius: 30px;
 }
-.feature-img{
+
+.feature-img {
     width: 530px;
     position: absolute;
     bottom: 0;
     right: 10%;
 }
-.feature-img.anim{
+
+.feature-img.anim {
     animation-delay: 1.5s;
 }
-.anim{
+
+.anim {
     opacity: 0;
     transform: translateY(30px);
     animation: moveup 0.5s linear forwards;
 }
-@keyframes moveup{
+
+@keyframes moveup {
     100%{
         opacity: 1;
         transform: translateY(0px);
-
     }
 }
 
 
-@media screen and (max-width: 768px){
-    .hero{
+@media screen and (max-width: 768px) {
+    .hero {
         padding: 10px 5%; 
     }
-    nav{
+
+    nav {
         padding: 10px 0;
         display: block;
         align-items: center;
         justify-content: space-between;
     }
-    .content{
+
+    .content {
         margin-top: 15%;
         max-width: 90%; 
     }
-    .content h1{
+
+    .content h1 {
         font-size: 40px; 
     }
-    .content p{
+
+    .content p {
         font-size: 16px; 
     }
-    .content .btn{
+
+    .content .btn {
         padding: 10px 40px; 
         font-size: 14px; 
     }
-    .feature-img{
+
+    .feature-img {
         width: 300px; 
         right: -15%; 
         bottom: 0%; 
     }
-    nav ul li{
+
+    nav ul li {
         display: block;
         margin: 5px 0;
         text-align: center; 
     }
-    a.btn{
+
+    a.btn {
         display: block; 
         margin: 0 auto; 
         width: fit-content; 
         
     }
-    .login-btn{
+
+    .login-btn {
         display: block; 
         text-align: center;
         margin-top: 20px; 
         
     }
-    .logo{
+
+    .logo {
         width: 100px; 
     }
 }
