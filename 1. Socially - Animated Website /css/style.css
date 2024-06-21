@@ -93,59 +93,59 @@ nav ul li a{
     }
 }
 
-@media screen and (max-width: 768px) {
-    .hero {
-        padding: 10px 5%;
-    }
 
-    .logo {
+@media screen and (max-width: 768px){
+    .hero{
+        padding: 10px 5%; /* Adjust padding for smaller screens */
+    }
+    nav{
+        padding: 10px 0;
         display: block;
-        width: 80px;
+        align-items: center;
+        justify-content: space-between;
     }
-
-    nav ul li {
+    .content{
+        margin-top: 15%; /* Adjust top margin */
+        max-width: 90%; /* Make content occupy more space */
+    }
+    .content h1{
+        font-size: 40px; /* Reduce heading size */
+    }
+    .content p{
+        font-size: 16px; /* Reduce paragraph font size */
+    }
+    .content .btn{
+        padding: 10px 40px; /* Adjust button padding */
+        font-size: 14px; /* Reduce button font size */
+    }
+    .feature-img{
+        width: 300px; /* Reduce image width */
+        right: -15%; /* Adjust image position */
+        bottom: 0%; /* Adjust image position */
+    }
+    nav ul li{
+        /* Remove inline-block and set to block for vertical menu */
         display: block;
-        margin: 10px 0;
+        margin: 5px 0;
+        text-align: center; /* Center the menu items */
     }
-
-    .login-btn {
-        margin-right: 20px;
+    a.btn{
+        /* display: block;
+    
+        justify-content: center; */
+        display: block; /* Make it a block element */
+        margin: 0 auto; /* Center horizontally */
+        width: fit-content; 
+        
     }
-
-    .feature-img {
-        width: 250px;
-        right: 5%;
-    }
-    .btn{
-        display: inline-block;
-        text-decoration: none;
-        padding: 14px 40px;
-        color: #fff;
-        background-image: linear-gradient(45deg, #df4881, #c430d7);
-        font-size: 14px;
-        border-radius: 30px;
-        border-top-right-radius: 0;
-        transition: 0.5s;
-    }
-
-    .content {
-        margin-top: 15%;
+    .login-btn{
+        /* Adjust for mobile menu */
+        display: block; 
         text-align: center;
+        margin-top: 20px; /* Add some spacing above the button */
+        
     }
-
-    .content h1 {
-        font-size: 40px;
-    }
-
-    .content .btn {
-        padding: 12px 40px;
-        font-size: 14px;
+    .logo{
+        width: 100px; /* Adjust logo size */
     }
 }
-
-/* @media screen and (orientation: landscape) and (max-width:768px) {
-    .feature-img {
-        width: 50px;
-        right: 5%;
-    }
-} */
