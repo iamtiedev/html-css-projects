@@ -96,7 +96,7 @@ nav ul li a{
 
 @media screen and (max-width: 768px){
     .hero{
-        padding: 10px 5%; /* Adjust padding for smaller screens */
+        padding: 10px 5%; 
     }
     nav{
         padding: 10px 0;
@@ -105,47 +105,42 @@ nav ul li a{
         justify-content: space-between;
     }
     .content{
-        margin-top: 15%; /* Adjust top margin */
-        max-width: 90%; /* Make content occupy more space */
+        margin-top: 15%;
+        max-width: 90%; 
     }
     .content h1{
-        font-size: 40px; /* Reduce heading size */
+        font-size: 40px; 
     }
     .content p{
-        font-size: 16px; /* Reduce paragraph font size */
+        font-size: 16px; 
     }
     .content .btn{
-        padding: 10px 40px; /* Adjust button padding */
-        font-size: 14px; /* Reduce button font size */
+        padding: 10px 40px; 
+        font-size: 14px; 
     }
     .feature-img{
-        width: 300px; /* Reduce image width */
-        right: -15%; /* Adjust image position */
-        bottom: 0%; /* Adjust image position */
+        width: 300px; 
+        right: -15%; 
+        bottom: 0%; 
     }
     nav ul li{
-        /* Remove inline-block and set to block for vertical menu */
         display: block;
         margin: 5px 0;
-        text-align: center; /* Center the menu items */
+        text-align: center; 
     }
     a.btn{
-        /* display: block;
-    
-        justify-content: center; */
-        display: block; /* Make it a block element */
-        margin: 0 auto; /* Center horizontally */
+        display: block; 
+        margin: 0 auto; 
         width: fit-content; 
         
     }
     .login-btn{
-        /* Adjust for mobile menu */
         display: block; 
         text-align: center;
-        margin-top: 20px; /* Add some spacing above the button */
+        margin-top: 20px; 
         
     }
     .logo{
-        width: 100px; /* Adjust logo size */
+        width: 100px; 
     }
 }
