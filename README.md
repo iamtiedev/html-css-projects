@@ -20,9 +20,9 @@ Project Link: [Fusion Kitchen](https://fusionkitchen-iamtiedev.netlify.app/)
 
 ## Joseph Shmoe | Ceramics
 
+[![josephshmoeceramics-screenshot.png](https://i.postimg.cc/s2nRQpQd/josephshmoeceramics-screenshot.png)](https://postimg.cc/t1Vc8nN2)
 
-
-Project Link: [Joseph Shmoe | Ceramics]()
+Project Link: [Joseph Shmoe | Ceramics](https://josephshmoeceramics-iamtiedev.netlify.app/)
 
 ---
 
