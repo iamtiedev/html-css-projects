@@ -10,19 +10,27 @@ This repository showcases a collection of projects designed for my personal prac
 - **Continuous Learning**: Learning is a lifelong journey, and these projects reflect my commitment to continuous improvement.
 - **Motivation**: Remember, every line of code is an opportunity to learn and grow. Embrace the process and enjoy the journey!
 
-## Socially - Animated Website
-
-[![socially-screenshot.png](https://i.postimg.cc/JhTFVBk5/socially-screenshot.png)](https://postimg.cc/5HCg8ypX)
-
-Project Link: [Socially - Animated Website](https://socially-animated-website.netlify.app/)
-
----
-
-## Fusion Kitchen - Animated Website
+## Fusion Kitchen
 
 [![fusion-kitchen-screenshot.png](https://i.postimg.cc/sX3sgW6Q/fusion-kitchen-screenshot.png)](https://postimg.cc/B87dhjG4)
 
-Project Link: [Fusion Kitchen - Animated Website](https://fusion-kitchen-animated-website.netlify.app/)
+Project Link: [Fusion Kitchen](https://fusionkitchen-iamtiedev.netlify.app/)
+
+---
+
+## Joseph Shmoe | Ceramics
+
+
+
+Project Link: [Joseph Shmoe | Ceramics]()
+
+---
+
+## Socially
+
+[![socially-screenshot.png](https://i.postimg.cc/JhTFVBk5/socially-screenshot.png)](https://postimg.cc/5HCg8ypX)
+
+Project Link: [Socially](https://socially-iamtiedev.netlify.app/)
 
 ---
 
