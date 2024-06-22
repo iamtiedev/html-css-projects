@@ -20,7 +20,7 @@ Project Link: [Fusion Kitchen](https://fusionkitchen-iamtiedev.netlify.app/)
 
 ## Joseph Shmoe | Ceramics
 
-[![]()
+
 
 Project Link: [Joseph Shmoe | Ceramics]()
 
