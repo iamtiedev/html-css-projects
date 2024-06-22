@@ -2,7 +2,7 @@
 
 Welcome to my personal HTML and CSS repository!
 
-This repository showcases a collection of 30 projects designed for my personal practice to enhance my skills in web development using HTML and CSS. Each project covers various concepts and techniques, from foundational layouts to more advanced design challenges.
+This repository showcases a collection of projects designed for my personal practice to enhance my skills in web development using HTML and CSS. Each project covers various concepts and techniques, from foundational layouts to more advanced design challenges.
 
 ### Key Highlights:
 - **Personal Development**: These projects represent my ongoing journey to sharpen my HTML and CSS skills.
@@ -10,7 +10,7 @@ This repository showcases a collection of 30 projects designed for my personal p
 - **Continuous Learning**: Learning is a lifelong journey, and these projects reflect my commitment to continuous improvement.
 - **Motivation**: Remember, every line of code is an opportunity to learn and grow. Embrace the process and enjoy the journey!
 
-## Project 1: Socially - Animated Website
+## Socially - Animated Website
 
 [![socially-screenshot.png](https://i.postimg.cc/JhTFVBk5/socially-screenshot.png)](https://postimg.cc/5HCg8ypX)
 
@@ -18,7 +18,7 @@ Project Link: [Socially - Animated Website](https://socially-animated-website.ne
 
 ---
 
-## Project 2: Fusion Kitchen - Animated Website
+## Fusion Kitchen - Animated Website
 
 [![fusion-kitchen-screenshot.png](https://i.postimg.cc/sX3sgW6Q/fusion-kitchen-screenshot.png)](https://postimg.cc/B87dhjG4)
 
