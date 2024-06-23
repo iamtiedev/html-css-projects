@@ -34,6 +34,14 @@ Project Link: [Socially](https://socially-iamtiedev.netlify.app/)
 
 ---
 
+### Typography Blog Post
+
+[![typographyblogpost-screenshot.png](https://i.postimg.cc/J0Lj9zxQ/typographyblogpost-screenshot.png)](https://postimg.cc/Kk0KTFdK)
+
+Project Link: [Typography Blog Post](https://typographyblogpost-iamtiedev.netlify.app/)
+
+---
+
 ### How to Use:
 - Clone this repository to your local machine.
 - Explore each project to see specific details and implementation guides.
