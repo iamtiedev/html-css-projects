@@ -10,7 +10,7 @@ This repository showcases a collection of projects designed for my personal prac
 - **Continuous Learning**: Learning is a lifelong journey, and these projects reflect my commitment to continuous improvement.
 - **Motivation**: Remember, every line of code is an opportunity to learn and grow. Embrace the process and enjoy the journey!
 
-## Fusion Kitchen
+### Fusion Kitchen
 
 [![fusion-kitchen-screenshot.png](https://i.postimg.cc/sX3sgW6Q/fusion-kitchen-screenshot.png)](https://postimg.cc/B87dhjG4)
 
@@ -18,7 +18,7 @@ Project Link: [Fusion Kitchen](https://fusionkitchen-iamtiedev.netlify.app/)
 
 ---
 
-## Joseph Shmoe | Ceramics
+### Joseph Shmoe | Ceramics
 
 [![josephshmoeceramics-screenshot.png](https://i.postimg.cc/s2nRQpQd/josephshmoeceramics-screenshot.png)](https://postimg.cc/t1Vc8nN2)
 
@@ -26,7 +26,7 @@ Project Link: [Joseph Shmoe | Ceramics](https://josephshmoeceramics-iamtiedev.ne
 
 ---
 
-## Socially
+### Socially
 
 [![socially-screenshot.png](https://i.postimg.cc/JhTFVBk5/socially-screenshot.png)](https://postimg.cc/5HCg8ypX)
 
