@@ -42,10 +42,15 @@ Project Link: [Typography Blog Post](https://typographyblogpost-iamtiedev.netlif
 
 ---
 
-### How to Use:
-- Clone this repository to your local machine.
-- Explore each project to see specific details and implementation guides.
-- Experiment with and customize each project to reinforce your HTML and CSS skills.
+## How to Use:
+
+1. Clone the repository to your local machine using:
+    ```bash
+    git clone git@github.com:iamtiedev/html-css-projects.git
+    ```
+2. Navigate to the project directory you are interested in.
+3. Open the project files in your preferred code editor.
+4. Follow any specific instructions provided in the project directory's README file.
 
 Thank you for visiting my profile and exploring these projects. I hope they inspire you to embark on your own coding adventures!
 
