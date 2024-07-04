@@ -11,6 +11,7 @@ body {
 
 h1 {
   color: rgb(83, 49, 156);
+	margin: 32px 0px 64px 0px;
 }
 
 .container {
@@ -24,6 +25,7 @@ h1 {
   border-radius: 20px;
   padding: 0 64px 64px 64px;
   position: relative;
+  box-sizing: border-box;
 }
 
 .tabs {
@@ -140,6 +142,7 @@ h1 {
 .slider {
   width: 100%;
   position: relative;
+	margin-bottom: 16px;
 }
 
 .slider .bar {
@@ -187,7 +190,7 @@ h1 {
 
 .slider .point:hover {
   cursor: pointer;
-  transform: scale(1.1);
+  transform: scale(1.05);
 }
 
 .scale {
@@ -204,37 +207,74 @@ h1 {
 }
 
 .card-wrapper {
-	display: flex;
-
+  display: flex;
 }
 
 .card {
-	background-color: rgb(250, 247, 255);
-	border-radius: 10px;
-	margin: 16px;
-	padding: 16px 32px;
-	box-shadow: 0px 3px 11px 1px rgba(0, 0, 0, 0.1);
-	text-align: center;
-	font-weight: bold;
-	color: rgb(83, 49, 156);
-	text-transform: uppercase;
+  background-color: rgb(250, 247, 255);
+  border-radius: 10px;
+  margin: 16px;
+  padding: 16px 32px;
+  box-shadow: 0px 3px 11px 1px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  font-weight: bold;
+  color: rgb(83, 49, 156);
+  transition: 0.15s transform ease;
+  position: relative;
+}
+
+.card:hover {
+  transform: translateY(-8px);
 }
 
 .card .top-section {
-	padding: 8px;
+  padding: 8px;
+  text-transform: uppercase;
 }
 
 .card .top-section p {
-	margin: 4px 0 ;
+  margin: 4px 0;
 }
 
 .card .price {
-	font-size: 42px;
-	color: rgb(44, 44, 44);
+  font-size: 42px;
+  color: rgb(44, 44, 44);
 }
 
 .card hr {
-	width: 30%;
-	border: 1px solid rgb(210, 210, 210);
-	border-radius: 2px;
+  width: 30%;
+  border: 1px solid rgb(210, 210, 210);
+  border-radius: 2px;
+}
+
+.card button {
+  border: none;
+  color: white;
+  background-color: rgb(83, 49, 166);
+  padding: 16px;
+  border-radius: 10px;
+  transition: 0.15s transform ease;
+  font-weight: bold;
+  margin: 8px 0;
+}
+
+.card button:hover {
+  cursor: pointer;
+  transform: scale(1.05);
+}
+
+.card .save-header {
+  color: white;
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(53, 10, 74, 1) 36%,
+    rgba(83, 49, 156, 1) 100%
+  );
+  position: absolute;
+  top: -24px;
+  left: 0;
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
 }
